@@ -1,0 +1,106 @@
+body{
+  background-color: hsl(0, 0%, 98%);
+  font-size: 15px;
+
+}
+
+p{
+  font-family: sans-serif;
+  line-height: 2;
+}
+
+h3{
+  margin-left: 20px;
+}
+
+img{
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 30px;
+
+
+}
+
+.top-container{
+   position: relative;
+   width: 35%;
+   margin: 30px auto 50px auto;
+}
+
+.reliable{
+  font-family: Calibri;
+  font-weight: normal;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.technology{
+  font-family: Century Gothic;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.intro{
+  text-align: center;
+
+}
+
+.table1{
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.attribution{
+  margin: auto;
+  text-align: center;
+}
+
+.supervisor{
+  height: 220px;
+  width: 300px;
+  background-color: white;
+  margin: 10px;
+  border-top: solid;
+  border-color: #1DB9C3;
+  border-radius: 5%;
+  border-width: thick;
+}
+
+.team-builder{
+  height: 220px;
+  width: 300px;
+  background-color: white;
+  margin: 20px 10px;
+  border-top: solid;
+  border-color: red;
+  border-radius: 5%;
+  border-width: thick;
+}
+
+.karma{
+  height: 220px;
+  width: 300px;
+  background-color: white;
+  margin: 20px 10px;
+  border-top: solid;
+  border-color: orange;
+  border-radius: 5%;
+  border-width: thick;
+}
+
+.calculator{
+  height: 220px;
+  width: 300px;
+  background-color: white;
+  margin: 10px;
+  border-top: solid;
+  border-color: #193498;
+  border-radius: 5%;
+  border-width: thick;
+}
+
+.card{
+  margin-left: 20px;
+}
